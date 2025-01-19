@@ -48,3 +48,8 @@ export default tseslint.config({
   },
 })
 ```
+
+# Init project
+```
+npm create vite@latest maisonaReact --template react
+```
